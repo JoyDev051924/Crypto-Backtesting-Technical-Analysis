@@ -1,0 +1,157 @@
+{
+  "cash": 6120.857530436351,
+  "positions": {
+    "BTC/USD": {
+      "amount": 0.013296299364142119,
+      "entry_price": 92700.0,
+      "entry_time": "2026-01-18T18:58:42.510234",
+      "highest_price": 93363.0,
+      "confidence": 70
+    },
+    "SOL/USD": {
+      "amount": 8.210540411576277,
+      "entry_price": 133.49,
+      "entry_time": "2026-01-18T19:51:38.494247",
+      "highest_price": 134.79,
+      "confidence": 70
+    },
+    "DOGE/USD": {
+      "amount": 8676.360748543104,
+      "entry_price": 0.1243691,
+      "entry_time": "2026-01-20T10:31:10.132858",
+      "highest_price": 0.1245634,
+      "confidence": 70
+    }
+  },
+  "trades": [
+    {
+      "type": "buy",
+      "symbol": "AVAX/USD",
+      "price": 13.7,
+      "amount": 109.37956204379563,
+      "usd_value": 1500.0,
+      "fee": 1.5,
+      "reason": "EMA Crossover: EMA 9/21 bullish cross, RSI=55.9",
+      "confidence": 70,
+      "timestamp": "2026-01-18T15:28:48.638290"
+    },
+    {
+      "type": "buy",
+      "symbol": "OP/USD",
+      "price": 0.3446,
+      "amount": 3696.2420197330234,
+      "usd_value": 1275.0,
+      "fee": 1.2750000000000001,
+      "reason": "EMA Crossover: EMA 9/21 bullish cross, RSI=54.6",
+      "confidence": 70,
+      "timestamp": "2026-01-18T16:54:16.548026"
+    },
+    {
+      "type": "buy",
+      "symbol": "SUI/USD",
+      "price": 1.7836,
+      "amount": 607.0118019735366,
+      "usd_value": 1083.75,
+      "fee": 1.08375,
+      "reason": "EMA Crossover: EMA 9/21 bullish cross, RSI=53.0",
+      "confidence": 70,
+      "timestamp": "2026-01-18T16:54:28.406770"
+    },
+    {
+      "type": "sell",
+      "symbol": "OP/USD",
+      "price": 0.3036,
+      "amount": 3696.2420197330234,
+      "usd_value": 1121.0568981137549,
+      "fee": 1.122179077190946,
+      "pnl": -152.66810188624504,
+      "pnl_pct": -11.985954730121891,
+      "reason": "STOP LOSS triggered at -11.9%",
+      "timestamp": "2026-01-18T18:58:34.013561"
+    },
+    {
+      "type": "sell",
+      "symbol": "SUI/USD",
+      "price": 1.5881,
+      "amount": 607.0118019735366,
+      "usd_value": 963.0314472714595,
+      "fee": 0.9639954427141736,
+      "pnl": -119.63480272854054,
+      "pnl_pct": -11.050016819914774,
+      "reason": "STOP LOSS triggered at -11.0%",
+      "timestamp": "2026-01-18T18:58:36.816292"
+    },
+    {
+      "type": "buy",
+      "symbol": "BTC/USD",
+      "price": 92700.0,
+      "amount": 0.013296299364142119,
+      "usd_value": 1233.8007518077823,
+      "fee": 1.2338007518077823,
+      "reason": "Mean Reversion: Z-score=-3.49, below mean",
+      "confidence": 70,
+      "timestamp": "2026-01-18T18:58:42.510234"
+    },
+    {
+      "type": "buy",
+      "symbol": "ETH/USD",
+      "price": 3211.69,
+      "amount": 0.32620891443370253,
+      "usd_value": 1048.7306390366148,
+      "fee": 1.048730639036615,
+      "reason": "Mean Reversion: Z-score=-3.53, below mean",
+      "confidence": 70,
+      "timestamp": "2026-01-18T18:58:48.794739"
+    },
+    {
+      "type": "sell",
+      "symbol": "AVAX/USD",
+      "price": 12.55,
+      "amount": 109.37956204379563,
+      "usd_value": 1371.3407901459855,
+      "fee": 1.3727135036496352,
+      "pnl": -127.15920985401453,
+      "pnl_pct": -8.48576642335766,
+      "reason": "STOP LOSS triggered at -8.4%",
+      "timestamp": "2026-01-18T19:51:26.107535"
+    },
+    {
+      "type": "buy",
+      "symbol": "SOL/USD",
+      "price": 133.49,
+      "amount": 8.210540411576277,
+      "usd_value": 1097.1221617030203,
+      "fee": 1.0971221617030202,
+      "reason": "Mean Reversion: Z-score=-2.76, below mean",
+      "confidence": 70,
+      "timestamp": "2026-01-18T19:51:38.494247"
+    },
+    {
+      "type": "sell",
+      "symbol": "ETH/USD",
+      "price": 3019.44,
+      "amount": 0.32620891443370253,
+      "usd_value": 983.9832763531011,
+      "fee": 0.9849682445976988,
+      "pnl": -63.698632044476994,
+      "pnl_pct": -6.079959149232956,
+      "reason": "STOP LOSS triggered at -6.0%",
+      "timestamp": "2026-01-20T09:06:28.030055"
+    },
+    {
+      "type": "buy",
+      "symbol": "DOGE/USD",
+      "price": 0.1243691,
+      "amount": 8676.360748543104,
+      "usd_value": 1080.1513289005325,
+      "fee": 1.0801513289005324,
+      "reason": "Mean Reversion: Z-score=-1.51, below mean",
+      "confidence": 70,
+      "timestamp": "2026-01-20T10:31:10.132858"
+    }
+  ],
+  "started_at": "2026-01-18T00:11:49.322247",
+  "total_pnl": -463.1607465132771,
+  "wins": 0,
+  "losses": 4
+}

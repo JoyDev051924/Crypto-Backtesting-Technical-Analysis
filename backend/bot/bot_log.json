@@ -1,0 +1,6001 @@
+[
+  {
+    "timestamp": "2026-01-19T09:13:34.099098",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9595.56194543794,
+      "returns_pct": -4.044380545620607,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T09:14:19.381839",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9597.281690235905,
+      "returns_pct": -4.027183097640955,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T09:15:04.652523",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9599.239017224543,
+      "returns_pct": -4.0076098277545675,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T09:15:49.756847",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9599.837298183522,
+      "returns_pct": -4.001627018164782,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T09:16:34.867789",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9597.933901323986,
+      "returns_pct": -4.02066098676014,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T09:17:20.381823",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9597.811259642302,
+      "returns_pct": -4.021887403576984,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T09:18:05.532189",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9596.226979071067,
+      "returns_pct": -4.03773020928933,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T09:18:50.654389",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9596.640016716261,
+      "returns_pct": -4.03359983283739,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T09:19:35.744872",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9597.354482023618,
+      "returns_pct": -4.026455179763816,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T09:20:20.864931",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9598.149716898306,
+      "returns_pct": -4.01850283101694,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T09:21:06.091405",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9597.573024805068,
+      "returns_pct": -4.024269751949324,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T09:21:51.329918",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9597.357605972316,
+      "returns_pct": -4.026423940276836,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T09:22:36.455215",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9597.912115761057,
+      "returns_pct": -4.020878842389429,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T09:23:21.594575",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9597.598268990809,
+      "returns_pct": -4.024017310091913,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T09:24:06.694104",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9597.356097939699,
+      "returns_pct": -4.026439020603012,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T09:24:51.855479",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9597.400660836704,
+      "returns_pct": -4.025993391632965,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T09:25:36.976537",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9597.471292272288,
+      "returns_pct": -4.025287077277117,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T09:26:22.100839",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9598.484873232253,
+      "returns_pct": -4.015151267677465,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T09:27:07.280711",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9599.28704127697,
+      "returns_pct": -4.007129587230302,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T09:27:52.414347",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9600.528942057817,
+      "returns_pct": -3.9947105794218256,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T09:28:37.550480",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9599.931885214399,
+      "returns_pct": -4.000681147856012,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T09:29:22.689527",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9597.899630423748,
+      "returns_pct": -4.02100369576252,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T09:30:07.873369",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9596.774444258279,
+      "returns_pct": -4.032255557417211,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T09:30:53.031391",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9597.683779364716,
+      "returns_pct": -4.023162206352845,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T09:31:38.244398",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9596.319768272471,
+      "returns_pct": -4.036802317275287,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T09:32:23.388485",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9595.1287188743,
+      "returns_pct": -4.0487128112569915,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T09:33:08.513243",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9596.166866873107,
+      "returns_pct": -4.038331331268928,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T09:33:53.642720",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9599.24984663492,
+      "returns_pct": -4.007501533650793,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T09:34:38.854619",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9600.41805393542,
+      "returns_pct": -3.9958194606457984,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T09:35:23.958306",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9600.788371552844,
+      "returns_pct": -3.9921162844715576,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T09:36:09.162484",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9598.662094830957,
+      "returns_pct": -4.013379051690427,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T09:36:54.271472",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9598.438836521542,
+      "returns_pct": -4.015611634784582,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T09:37:39.398081",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9597.752426479736,
+      "returns_pct": -4.022475735202643,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T09:38:24.528736",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9594.938681263433,
+      "returns_pct": -4.05061318736567,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T09:39:09.655438",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9595.118698995642,
+      "returns_pct": -4.0488130100435775,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T09:39:54.776108",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9594.736977601855,
+      "returns_pct": -4.05263022398145,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T09:40:39.939180",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9597.276161464662,
+      "returns_pct": -4.0272383853533755,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T09:41:25.414921",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9596.799286310183,
+      "returns_pct": -4.032007136898173,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T09:42:10.515325",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9595.902874322117,
+      "returns_pct": -4.04097125677883,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T09:42:55.634972",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9595.855272614888,
+      "returns_pct": -4.041447273851118,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T09:43:40.791120",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9596.015448064225,
+      "returns_pct": -4.03984551935775,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T09:44:25.918926",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9595.823981353382,
+      "returns_pct": -4.041760186466181,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T09:45:11.041224",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9595.823981353382,
+      "returns_pct": -4.041760186466181,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T09:45:56.256408",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9596.158076376076,
+      "returns_pct": -4.038419236239242,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T09:46:41.510949",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9596.2553858749,
+      "returns_pct": -4.037446141251003,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T09:47:26.724360",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9595.749082051982,
+      "returns_pct": -4.042509179480184,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T09:48:11.846792",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9596.198294067464,
+      "returns_pct": -4.038017059325357,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T09:48:56.965303",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9597.421338293265,
+      "returns_pct": -4.025786617067351,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T09:49:42.087988",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9597.149515783338,
+      "returns_pct": -4.028504842166622,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T09:50:27.207072",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9597.230291557516,
+      "returns_pct": -4.027697084424835,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T09:51:12.338268",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9596.684648827337,
+      "returns_pct": -4.033153511726632,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T09:51:57.480194",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9596.72595106452,
+      "returns_pct": -4.032740489354801,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T09:52:42.628978",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9597.886750788604,
+      "returns_pct": -4.021132492113956,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T09:53:27.744745",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9597.881003064744,
+      "returns_pct": -4.021189969352563,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T09:54:13.054660",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9597.978403908892,
+      "returns_pct": -4.020215960911083,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T09:54:58.303760",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9598.334220997733,
+      "returns_pct": -4.0166577900226725,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T09:55:43.439972",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9598.129693516616,
+      "returns_pct": -4.018703064833844,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T09:56:28.554703",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9597.797200730512,
+      "returns_pct": -4.022027992694875,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T09:57:13.675291",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9597.75589992265,
+      "returns_pct": -4.022441000773505,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T09:57:58.818350",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9597.833413607685,
+      "returns_pct": -4.021665863923154,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T09:58:44.058048",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9598.044623293874,
+      "returns_pct": -4.019553767061261,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T09:59:29.525864",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9598.242770780469,
+      "returns_pct": -4.017572292195309,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T10:00:14.650408",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9597.657750472617,
+      "returns_pct": -4.0234224952738264,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T10:00:59.756794",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9597.728186803855,
+      "returns_pct": -4.0227181319614465,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T10:01:44.959454",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9598.463710873479,
+      "returns_pct": -4.015362891265213,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T10:02:30.123671",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9599.241804580253,
+      "returns_pct": -4.007581954197467,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T10:03:15.237105",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9599.201937323856,
+      "returns_pct": -4.007980626761437,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T10:04:00.367109",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9600.436919103724,
+      "returns_pct": -3.99563080896276,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T10:04:45.595533",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9601.00917129782,
+      "returns_pct": -3.989908287021808,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T10:05:30.806864",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9600.852915034664,
+      "returns_pct": -3.9914708496533606,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T10:06:16.315658",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9599.897568043896,
+      "returns_pct": -4.001024319561038,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T10:07:01.427353",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9600.092349519817,
+      "returns_pct": -3.999076504801833,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T10:07:46.640181",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9599.608080631937,
+      "returns_pct": -4.00391919368063,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T10:08:31.843490",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9597.708327493287,
+      "returns_pct": -4.022916725067134,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T10:09:17.462830",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9596.885779100015,
+      "returns_pct": -4.031142208999845,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T10:10:02.628669",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9597.17450247124,
+      "returns_pct": -4.0282549752876005,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T10:10:47.752000",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9597.3479463714,
+      "returns_pct": -4.026520536286006,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T10:11:32.859911",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9598.428897003836,
+      "returns_pct": -4.01571102996164,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T10:12:18.004883",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9598.227817650715,
+      "returns_pct": -4.017721823492848,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T10:13:03.114432",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9598.281117428041,
+      "returns_pct": -4.017188825719586,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T10:13:48.232405",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9598.548264672241,
+      "returns_pct": -4.014517353277588,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T10:14:33.365537",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9598.412033382605,
+      "returns_pct": -4.015879666173951,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T10:15:18.529168",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9598.227520054166,
+      "returns_pct": -4.017724799458337,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T10:16:03.665457",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9597.246349120416,
+      "returns_pct": -4.027536508795838,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T10:16:48.791279",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9598.437838543548,
+      "returns_pct": -4.015621614564516,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T10:17:34.052746",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9599.779672434852,
+      "returns_pct": -4.002203275651482,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T10:18:19.177190",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9599.55077301924,
+      "returns_pct": -4.004492269807597,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T10:19:04.298093",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9599.106575720105,
+      "returns_pct": -4.008934242798951,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T10:19:49.415543",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9599.982819039422,
+      "returns_pct": -4.0001718096057814,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T10:20:34.694300",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9599.917024081027,
+      "returns_pct": -4.0008297591897275,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T10:21:19.819410",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9601.043384871817,
+      "returns_pct": -3.9895661512818337,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T10:22:04.938758",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9601.582583948186,
+      "returns_pct": -3.9841741605181413,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T10:22:50.057527",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9601.967844977802,
+      "returns_pct": -3.980321550221979,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T10:23:35.201857",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9601.884409943752,
+      "returns_pct": -3.9811559005624804,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T10:24:20.394573",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9601.259914669583,
+      "returns_pct": -3.9874008533041705,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T10:25:05.668117",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9601.603761904318,
+      "returns_pct": -3.983962380956818,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T10:25:50.783062",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9601.742652453824,
+      "returns_pct": -3.9825734754617583,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T10:26:35.902926",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9601.846041328448,
+      "returns_pct": -3.9815395867155163,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T10:27:21.009884",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9603.100775149152,
+      "returns_pct": -3.968992248508475,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T10:28:06.137773",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9603.529963620436,
+      "returns_pct": -3.964700363795637,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T10:28:51.252040",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9603.558696358923,
+      "returns_pct": -3.9644130364107695,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T10:29:36.353851",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9603.61852970606,
+      "returns_pct": -3.9638147029393984,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T10:30:21.482913",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9602.288036582879,
+      "returns_pct": -3.9771196341712134,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T10:31:06.596375",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9603.296074314854,
+      "returns_pct": -3.967039256851458,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T10:31:51.737862",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9603.620854291823,
+      "returns_pct": -3.9637914570817703,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T10:32:36.862077",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9604.612501053602,
+      "returns_pct": -3.953874989463984,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T10:33:22.120237",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9603.763251525059,
+      "returns_pct": -3.9623674847494113,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T10:34:07.282036",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9603.81529933828,
+      "returns_pct": -3.9618470066172087,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T10:34:52.471048",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9604.622287321032,
+      "returns_pct": -3.9537771267896824,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T10:35:37.716474",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9604.944364265179,
+      "returns_pct": -3.9505563573482143,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T10:36:22.848696",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9604.83179370775,
+      "returns_pct": -3.9516820629225005,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T10:37:08.013114",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9604.159026889585,
+      "returns_pct": -3.9584097311041475,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T10:37:53.124508",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9605.918145917018,
+      "returns_pct": -3.9408185408298233,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T10:38:38.294817",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9605.73676307016,
+      "returns_pct": -3.942632369298408,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T10:39:23.403958",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9606.375530816467,
+      "returns_pct": -3.936244691835327,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T10:40:08.524763",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9605.513729142955,
+      "returns_pct": -3.944862708570454,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T10:40:53.636628",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9604.963590979052,
+      "returns_pct": -3.950364090209477,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T10:41:38.757563",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9603.863351402772,
+      "returns_pct": -3.961366485972285,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T10:42:23.887440",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9604.03898509645,
+      "returns_pct": -3.959610149035507,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T10:43:09.009249",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9603.006029890643,
+      "returns_pct": -3.9699397010935713,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T10:43:54.211772",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9603.627755939071,
+      "returns_pct": -3.96372244060929,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T10:44:39.349387",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9604.134916740895,
+      "returns_pct": -3.958650832591047,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T10:45:24.458609",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9605.547210035471,
+      "returns_pct": -3.9445278996452906,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T10:46:09.651068",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9606.111424137845,
+      "returns_pct": -3.938885758621545,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T10:46:54.768866",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9606.292317305979,
+      "returns_pct": -3.9370768269402103,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T10:47:39.891837",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9607.033198402229,
+      "returns_pct": -3.9296680159777138,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T10:48:25.063188",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9606.541895607472,
+      "returns_pct": -3.9345810439252817,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T10:49:10.168637",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9605.263408279914,
+      "returns_pct": -3.947365917200859,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T10:49:55.283411",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9605.101569793344,
+      "returns_pct": -3.9489843020665645,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T10:50:40.485927",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9605.29707186308,
+      "returns_pct": -3.9470292813691956,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T10:51:25.703623",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9604.446386086938,
+      "returns_pct": -3.955536139130618,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T10:52:10.871897",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9604.440415084158,
+      "returns_pct": -3.955595849158417,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T10:52:55.977426",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9605.484340574245,
+      "returns_pct": -3.9451565942575506,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T10:53:41.092986",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9606.89191977018,
+      "returns_pct": -3.9310808022982022,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T10:54:26.219533",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9608.033890625247,
+      "returns_pct": -3.919661093747527,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T10:55:11.743046",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9613.817700654263,
+      "returns_pct": -3.861822993457372,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T10:55:56.853526",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9612.274711499364,
+      "returns_pct": -3.8772528850063646,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T10:56:41.988203",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9613.776149043957,
+      "returns_pct": -3.86223850956043,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T10:57:27.126852",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9611.982685939267,
+      "returns_pct": -3.8801731406073308,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T10:58:12.261755",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9611.348822454898,
+      "returns_pct": -3.8865117754510172,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T10:58:57.431917",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9612.28335544151,
+      "returns_pct": -3.8771664455848986,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T10:59:42.554722",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9611.776465817018,
+      "returns_pct": -3.882235341829819,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T11:00:27.733029",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9611.914817034032,
+      "returns_pct": -3.8808518296596777,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T11:01:12.933865",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9610.590903949751,
+      "returns_pct": -3.8940909605024903,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T11:01:58.067893",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9610.47159977813,
+      "returns_pct": -3.8952840022187045,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T11:02:43.188356",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9607.116998981104,
+      "returns_pct": -3.9288300101889577,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T11:03:28.316737",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9607.06691163916,
+      "returns_pct": -3.9293308836084,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T11:04:13.446389",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9606.157874129276,
+      "returns_pct": -3.93842125870724,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T11:04:58.665565",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9606.219931325328,
+      "returns_pct": -3.937800686746723,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T11:05:43.797536",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9606.678205829747,
+      "returns_pct": -3.933217941702533,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T11:06:28.916794",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9607.023168969534,
+      "returns_pct": -3.929768310304662,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T11:07:13.998924",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9606.677883731842,
+      "returns_pct": -3.9332211626815843,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T11:07:59.563233",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9607.271033313216,
+      "returns_pct": -3.927289666867837,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T11:08:44.680973",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9608.083400290327,
+      "returns_pct": -3.9191659970967336,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T11:09:29.790600",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9607.023627777548,
+      "returns_pct": -3.9297637222245245,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T11:10:14.900590",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9608.722826726518,
+      "returns_pct": -3.9127717327348184,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T11:11:00.021721",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9609.730284863763,
+      "returns_pct": -3.9026971513623723,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T11:11:45.129559",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9609.362002197751,
+      "returns_pct": -3.9063799780224873,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T11:12:30.351306",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9609.567566652287,
+      "returns_pct": -3.904324333477125,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T11:13:15.569248",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9611.027735852576,
+      "returns_pct": -3.8897226414742367,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T11:14:00.682168",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9611.399063698169,
+      "returns_pct": -3.886009363018311,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T11:14:45.822384",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9610.99199387108,
+      "returns_pct": -3.890080061289209,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T11:15:31.172149",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9610.233416676048,
+      "returns_pct": -3.8976658332395164,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T11:16:16.298667",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9611.219887346491,
+      "returns_pct": -3.887801126535087,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T11:17:01.427935",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9611.046805968988,
+      "returns_pct": -3.8895319403101167,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T11:17:46.541223",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9610.13895055707,
+      "returns_pct": -3.898610494429304,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T11:18:31.654514",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9610.30282971336,
+      "returns_pct": -3.8969717028663946,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T11:19:16.748154",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9610.462118905925,
+      "returns_pct": -3.8953788109407474,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T11:20:01.930061",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9609.86106108504,
+      "returns_pct": -3.901389389149608,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T11:20:47.089147",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9609.694917817598,
+      "returns_pct": -3.9030508218240176,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T11:21:32.421739",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9609.60955032434,
+      "returns_pct": -3.903904496756604,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T11:22:17.543667",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9609.443736953484,
+      "returns_pct": -3.905562630465156,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T11:23:02.732731",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9609.197420741137,
+      "returns_pct": -3.908025792588633,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T11:23:47.866571",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9609.355933479274,
+      "returns_pct": -3.9064406652072647,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T11:24:32.995509",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9609.079370452499,
+      "returns_pct": -3.9092062954750144,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T11:25:18.106591",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9610.510118946557,
+      "returns_pct": -3.894898810534433,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T11:26:03.279772",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9610.936025116322,
+      "returns_pct": -3.8906397488367843,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T11:26:48.455315",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9611.71350868369,
+      "returns_pct": -3.8828649131631026,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T11:27:33.568788",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9613.1816340219,
+      "returns_pct": -3.868183659781007,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T11:28:18.812427",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9612.118164009014,
+      "returns_pct": -3.878818359909856,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T11:29:03.932377",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9610.230247525076,
+      "returns_pct": -3.897697524749237,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T11:29:49.037593",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9611.205876497646,
+      "returns_pct": -3.8879412350235363,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T11:30:34.156668",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9610.690409448944,
+      "returns_pct": -3.893095905510563,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T11:31:19.267459",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9608.888322288447,
+      "returns_pct": -3.911116777115531,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T11:32:04.801321",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9606.349827660202,
+      "returns_pct": -3.936501723397978,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T11:32:49.914671",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9606.372662284213,
+      "returns_pct": -3.936273377157868,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T11:33:35.028745",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9608.042209611856,
+      "returns_pct": -3.9195779038814362,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T11:34:20.133264",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9607.127991233114,
+      "returns_pct": -3.9287200876688617,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T11:35:05.255467",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9606.88138220174,
+      "returns_pct": -3.931186177982599,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T11:35:50.443959",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9606.88138220174,
+      "returns_pct": -3.931186177982599,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T11:36:35.637289",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9607.720572530165,
+      "returns_pct": -3.922794274698353,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T11:37:20.805600",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9607.959327753311,
+      "returns_pct": -3.920406722466887,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T11:38:06.000243",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9607.904648692287,
+      "returns_pct": -3.920953513077129,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T11:38:51.172854",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9607.460451393152,
+      "returns_pct": -3.9253954860684823,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T11:39:36.344340",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9607.253833426043,
+      "returns_pct": -3.9274616657395747,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T11:40:21.463933",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9606.94682227365,
+      "returns_pct": -3.9305317772634956,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T11:41:06.703682",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9607.278505979257,
+      "returns_pct": -3.9272149402074317,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T11:41:51.884263",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9606.74173986167,
+      "returns_pct": -3.932582601383292,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T11:42:37.347232",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9605.489808055283,
+      "returns_pct": -3.94510191944717,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T11:43:22.824294",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9605.068775602776,
+      "returns_pct": -3.9493122439722352,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T11:44:07.946960",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9604.8745829506,
+      "returns_pct": -3.9512541704939936,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T11:44:53.183826",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9606.432791472545,
+      "returns_pct": -3.9356720852745455,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T11:45:38.655368",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9605.342973455516,
+      "returns_pct": -3.9465702654448434,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T11:46:23.763584",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9605.1490739484,
+      "returns_pct": -3.9485092605160026,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T11:47:08.872433",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9605.66780308625,
+      "returns_pct": -3.9433219691375054,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T11:47:54.158240",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9606.171869217238,
+      "returns_pct": -3.9382813078276193,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T11:48:39.407691",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9606.159927211676,
+      "returns_pct": -3.938400727883236,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T11:49:24.656559",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9606.570454232255,
+      "returns_pct": -3.934295457677454,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T11:50:09.771177",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9606.589746524298,
+      "returns_pct": -3.934102534757021,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T11:50:54.892700",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9606.558455262792,
+      "returns_pct": -3.9344154473720847,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T11:51:40.012553",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9606.558455262792,
+      "returns_pct": -3.9344154473720847,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T11:52:25.222664",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9607.21502429622,
+      "returns_pct": -3.9278497570378024,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T11:53:10.372403",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9607.179727117209,
+      "returns_pct": -3.9282027288279098,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T11:53:55.575823",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9607.62581947196,
+      "returns_pct": -3.9237418052804065,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T11:54:40.677782",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9607.390668810745,
+      "returns_pct": -3.926093311892546,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T11:55:25.845170",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9607.369163816671,
+      "returns_pct": -3.9263083618332897,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T11:56:11.018698",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9607.634499388378,
+      "returns_pct": -3.9236550061162236,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T11:56:56.147392",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9606.792747515778,
+      "returns_pct": -3.932072524842224,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T11:57:41.324530",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9606.716893357265,
+      "returns_pct": -3.9328310664273523,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T11:58:26.444894",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9607.193158372338,
+      "returns_pct": -3.928068416276619,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T11:59:11.590922",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9607.329112277794,
+      "returns_pct": -3.9267088772220635,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T11:59:56.742277",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9607.552040690623,
+      "returns_pct": -3.924479593093765,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T12:00:41.866916",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9606.846819296039,
+      "returns_pct": -3.9315318070396095,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T12:01:27.049977",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9608.07590406472,
+      "returns_pct": -3.9192409593527917,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T12:02:12.159774",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9608.522250569107,
+      "returns_pct": -3.9147774943089275,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T12:02:57.439968",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9607.139669533992,
+      "returns_pct": -3.9286033046600823,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T12:03:42.572227",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9605.43317583312,
+      "returns_pct": -3.9456682416688094,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T12:04:27.783318",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9604.50597912746,
+      "returns_pct": -3.954940208725402,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T12:05:12.907300",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9602.338590495207,
+      "returns_pct": -3.9766140950479345,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T12:05:58.092953",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9602.426666902105,
+      "returns_pct": -3.9757333309789464,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T12:06:43.208599",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9601.908714218685,
+      "returns_pct": -3.980912857813146,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T12:07:28.342109",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9602.242553662421,
+      "returns_pct": -3.977574463375786,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T12:08:13.472335",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9601.04794139388,
+      "returns_pct": -3.9895205860612077,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T12:08:58.595484",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9600.988281671898,
+      "returns_pct": -3.990117183281018,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T12:09:43.702390",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9602.953192884279,
+      "returns_pct": -3.970468071157211,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T12:10:28.869954",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9603.505013971757,
+      "returns_pct": -3.964949860282432,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T12:11:14.166082",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9603.696924055765,
+      "returns_pct": -3.963030759442354,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T12:11:59.276006",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9604.141451251488,
+      "returns_pct": -3.958585487485125,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T12:12:47.939361",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9602.23060402069,
+      "returns_pct": -3.977693959793105,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T12:13:33.436468",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9601.208696601469,
+      "returns_pct": -3.9879130339853144,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T12:14:18.885416",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9600.842789441796,
+      "returns_pct": -3.9915721055820357,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T12:15:03.988882",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9600.792658652936,
+      "returns_pct": -3.9920734134706435,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T13:04:08.531337",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9605.962052170236,
+      "returns_pct": -3.9403794782976362,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T13:14:29.828678",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9603.400409397025,
+      "returns_pct": -3.9659959060297476,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T13:30:08.274058",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9606.64670305196,
+      "returns_pct": -3.933532969480402,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T14:04:02.844399",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9609.374107623384,
+      "returns_pct": -3.9062589237661633,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T14:16:33.730259",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9606.872085249677,
+      "returns_pct": -3.9312791475032283,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T15:01:38.711489",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9611.820123474366,
+      "returns_pct": -3.881798765256335,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T15:02:23.875342",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9611.800169633792,
+      "returns_pct": -3.8819983036620758,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T15:03:09.055644",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9611.405350229665,
+      "returns_pct": -3.8859464977033533,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T15:19:47.803329",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9604.953028384403,
+      "returns_pct": -3.9504697161559674,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T15:20:32.920801",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9603.511693933944,
+      "returns_pct": -3.9648830606605587,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T15:28:47.899491",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9603.10607309418,
+      "returns_pct": -3.9689392690581915,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T15:43:21.770558",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9603.047030533035,
+      "returns_pct": -3.9695296946696548,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T16:03:59.831771",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9601.723061588142,
+      "returns_pct": -3.9827693841185825,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T16:04:45.127098",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9601.180053453969,
+      "returns_pct": -3.988199465460311,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T16:05:30.339253",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9601.587318385402,
+      "returns_pct": -3.984126816145981,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T16:06:15.440110",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9602.033161368043,
+      "returns_pct": -3.979668386319572,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T16:07:00.619259",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9600.184743084967,
+      "returns_pct": -3.9981525691503337,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T16:07:45.706256",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9597.537284216582,
+      "returns_pct": -4.024627157834184,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T16:08:30.888308",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9597.744455359198,
+      "returns_pct": -4.022555446408023,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T16:09:16.427538",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9597.014190764032,
+      "returns_pct": -4.029858092359682,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T16:10:01.716821",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9597.380874378134,
+      "returns_pct": -4.026191256218663,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T16:10:46.823934",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9597.442630792953,
+      "returns_pct": -4.0255736920704654,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T16:11:31.946694",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9596.831267584517,
+      "returns_pct": -4.031687324154827,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T16:12:17.388665",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9597.14415520969,
+      "returns_pct": -4.028558447903106,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T16:13:02.477879",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9596.235481651782,
+      "returns_pct": -4.037645183482182,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T16:13:47.554405",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9587.04955025672,
+      "returns_pct": -4.129504497432809,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T16:14:32.650549",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9589.194207208388,
+      "returns_pct": -4.108057927916125,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T16:15:17.731734",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9593.360474602096,
+      "returns_pct": -4.066395253979045,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T16:16:02.803705",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9596.249678828188,
+      "returns_pct": -4.037503211718121,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T16:16:47.885487",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9597.536322174521,
+      "returns_pct": -4.02463677825479,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T16:17:33.014598",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9597.860928526334,
+      "returns_pct": -4.021390714736663,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T16:18:18.127676",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9599.016087633778,
+      "returns_pct": -4.009839123662222,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T16:19:03.339656",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9599.085164893691,
+      "returns_pct": -4.009148351063086,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T16:19:48.429472",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9598.405544000654,
+      "returns_pct": -4.015944559993459,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T16:20:33.939309",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9597.722604054574,
+      "returns_pct": -4.022773959454262,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T16:21:19.107254",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9598.06249645489,
+      "returns_pct": -4.0193750354511035,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T16:22:04.334965",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9598.825884033922,
+      "returns_pct": -4.011741159660779,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T16:22:49.594432",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9598.694247648047,
+      "returns_pct": -4.013057523519528,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T16:23:34.717646",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9598.69291801811,
+      "returns_pct": -4.013070819818895,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T16:26:20.859449",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9598.871139838711,
+      "returns_pct": -4.011288601612887,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T16:39:47.168877",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9588.665307838588,
+      "returns_pct": -4.11334692161412,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T16:40:33.570921",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9589.756562103217,
+      "returns_pct": -4.1024343789678275,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T16:44:24.637703",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9586.580437112903,
+      "returns_pct": -4.134195628870966,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T16:45:14.417678",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9587.749112124398,
+      "returns_pct": -4.122508878756016,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T16:46:52.722030",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9588.260913810522,
+      "returns_pct": -4.1173908618947825,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T16:47:37.875092",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9585.577063010216,
+      "returns_pct": -4.14422936989784,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T16:48:23.085308",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9584.367100870353,
+      "returns_pct": -4.156328991296468,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T16:49:08.293343",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9585.657342572786,
+      "returns_pct": -4.1434265742721434,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T16:49:53.450993",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9588.612947771222,
+      "returns_pct": -4.11387052228778,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T16:50:38.534697",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9589.022088197966,
+      "returns_pct": -4.1097791180203425,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T16:51:23.631253",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9589.672436693992,
+      "returns_pct": -4.1032756330600755,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T16:52:08.720469",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9588.845227204049,
+      "returns_pct": -4.111547727959515,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T16:52:53.856079",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9588.513376080131,
+      "returns_pct": -4.114866239198691,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T16:53:38.947547",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9587.088025200974,
+      "returns_pct": -4.129119747990262,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T16:54:33.989831",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9588.429914464346,
+      "returns_pct": -4.115700855356535,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T16:55:19.077871",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9588.137704295736,
+      "returns_pct": -4.118622957042644,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T16:56:04.229711",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9588.291247193763,
+      "returns_pct": -4.117087528062366,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T16:56:49.311386",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9588.648133556058,
+      "returns_pct": -4.113518664439416,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T16:57:34.405740",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9588.720372168265,
+      "returns_pct": -4.112796278317346,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T16:58:19.525223",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9585.067907519215,
+      "returns_pct": -4.149320924807853,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T16:59:04.670951",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9580.979216367557,
+      "returns_pct": -4.190207836324426,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T16:59:49.794208",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9577.879323004716,
+      "returns_pct": -4.2212067699528415,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T17:00:34.917107",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9580.963460200632,
+      "returns_pct": -4.190365397993682,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T17:01:20.017922",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9584.40331901461,
+      "returns_pct": -4.155966809853908,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T17:02:05.110574",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9583.322574633397,
+      "returns_pct": -4.166774253666026,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T17:02:50.213829",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9578.738062633462,
+      "returns_pct": -4.212619373665384,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T17:03:35.303262",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9577.373346056214,
+      "returns_pct": -4.226266539437856,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T17:04:20.400577",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9573.066474156203,
+      "returns_pct": -4.269335258437968,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T17:05:05.486472",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9575.525990351201,
+      "returns_pct": -4.244740096487985,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T17:05:50.604543",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9574.966513581,
+      "returns_pct": -4.250334864190009,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T17:06:35.706717",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9574.467967117422,
+      "returns_pct": -4.255320328825783,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T17:07:20.792277",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9572.941561014895,
+      "returns_pct": -4.270584389851047,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T17:08:05.887468",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9567.477414532563,
+      "returns_pct": -4.325225854674372,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T17:08:51.046718",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9573.931854261138,
+      "returns_pct": -4.2606814573886185,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T17:09:36.255257",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9575.010470915273,
+      "returns_pct": -4.249895290847271,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T17:10:21.344752",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9574.09325415207,
+      "returns_pct": -4.259067458479294,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T17:11:06.525577",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9571.226275187835,
+      "returns_pct": -4.287737248121648,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T17:11:51.702263",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9572.72371796282,
+      "returns_pct": -4.272762820371809,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T17:12:36.791125",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9573.69483733262,
+      "returns_pct": -4.263051626673805,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T17:13:21.875185",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9575.418175545637,
+      "returns_pct": -4.245818244543624,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T17:14:06.964222",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9575.27886073205,
+      "returns_pct": -4.247211392679492,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T17:14:52.105650",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9574.995599901831,
+      "returns_pct": -4.250044000981688,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T17:15:37.214882",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9571.091536495975,
+      "returns_pct": -4.289084635040254,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T17:16:22.313522",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9571.25386449876,
+      "returns_pct": -4.287461355012401,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T17:17:07.419629",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9566.079215634489,
+      "returns_pct": -4.339207843655113,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T17:17:53.635597",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9566.076687982179,
+      "returns_pct": -4.339233120178214,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T17:18:45.745914",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9568.990175330053,
+      "returns_pct": -4.3100982466994715,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T17:19:32.033865",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9571.631313575239,
+      "returns_pct": -4.283686864247612,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T17:20:17.186851",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9572.157332361432,
+      "returns_pct": -4.2784266763856795,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T17:21:02.328672",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9573.236401617747,
+      "returns_pct": -4.2676359838225295,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T17:21:47.411449",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9575.251722432491,
+      "returns_pct": -4.247482775675089,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T17:22:32.849494",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9574.51551500912,
+      "returns_pct": -4.254844849908804,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T17:23:17.935178",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9572.460495623105,
+      "returns_pct": -4.275395043768949,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T17:24:03.028372",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9572.007276260794,
+      "returns_pct": -4.279927237392058,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T17:24:48.125252",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9573.449213703036,
+      "returns_pct": -4.265507862969644,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T17:25:33.249039",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9577.694291785647,
+      "returns_pct": -4.223057082143533,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T17:26:18.339448",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9578.495265318703,
+      "returns_pct": -4.2150473468129706,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T17:27:03.431295",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9577.910252810547,
+      "returns_pct": -4.220897471894531,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T17:27:48.534643",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9577.931869688353,
+      "returns_pct": -4.220681303116471,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T17:28:33.975630",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9577.64348099124,
+      "returns_pct": -4.223565190087593,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T17:29:19.063470",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9578.876082161212,
+      "returns_pct": -4.211239178387878,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T17:30:04.287258",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9579.136776360072,
+      "returns_pct": -4.20863223639928,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T17:30:49.718321",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9580.763830123553,
+      "returns_pct": -4.19236169876447,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T17:31:34.823386",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9583.967770398833,
+      "returns_pct": -4.160322296011673,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T17:32:20.071665",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9585.07824933327,
+      "returns_pct": -4.1492175066673,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T17:33:05.149673",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9587.047550627507,
+      "returns_pct": -4.12952449372493,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T17:33:50.250752",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9587.649710021882,
+      "returns_pct": -4.123502899781179,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T17:34:35.366808",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9589.00652313714,
+      "returns_pct": -4.109934768628591,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T17:35:20.453729",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9587.490258188533,
+      "returns_pct": -4.125097418114674,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T17:36:05.541087",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9586.689791687932,
+      "returns_pct": -4.133102083120685,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T17:36:50.624062",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9588.136890889948,
+      "returns_pct": -4.118631091100524,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T17:37:35.709110",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9586.67682846983,
+      "returns_pct": -4.133231715301699,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T17:38:20.809195",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9585.672515923996,
+      "returns_pct": -4.143274840760041,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T17:39:05.921946",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9585.014623303954,
+      "returns_pct": -4.14985376696046,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T17:39:51.021703",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9584.092963619438,
+      "returns_pct": -4.159070363805622,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T17:40:36.108115",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9584.076653173717,
+      "returns_pct": -4.159233468262828,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T17:41:21.368020",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9585.27250691155,
+      "returns_pct": -4.147274930884505,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T17:42:06.483056",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9586.2108209439,
+      "returns_pct": -4.137891790561007,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T17:42:51.634076",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9585.902752768223,
+      "returns_pct": -4.140972472317771,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T17:43:36.806309",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9586.243892844677,
+      "returns_pct": -4.137561071553227,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T17:44:22.360968",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9584.60120165692,
+      "returns_pct": -4.153987983430798,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T17:45:07.439142",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9584.345164103242,
+      "returns_pct": -4.156548358967576,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T17:45:52.597267",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9584.873436505773,
+      "returns_pct": -4.151265634942265,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T17:46:57.304421",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9584.183200378466,
+      "returns_pct": -4.158167996215343,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T17:48:21.490004",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9585.180920472721,
+      "returns_pct": -4.148190795272785,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T17:50:07.822248",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9585.3475889036,
+      "returns_pct": -4.146524110964001,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T18:37:13.645306",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9587.774788987641,
+      "returns_pct": -4.122252110123591,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T18:51:52.205355",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9583.163990562476,
+      "returns_pct": -4.168360094375239,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T19:47:08.182962",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9587.240301276455,
+      "returns_pct": -4.127596987235447,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T20:19:53.863176",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9586.495461546363,
+      "returns_pct": -4.13504538453637,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T20:29:02.978798",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9575.486001332018,
+      "returns_pct": -4.245139986679824,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T20:29:48.099499",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9578.63372858399,
+      "returns_pct": -4.213662714160091,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T20:31:06.731787",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9581.689638154998,
+      "returns_pct": -4.183103618450023,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T20:31:51.896954",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9584.1125167202,
+      "returns_pct": -4.158874832797992,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T21:00:30.137057",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9588.329153942574,
+      "returns_pct": -4.116708460574263,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T21:01:15.270590",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9586.752260409345,
+      "returns_pct": -4.1324773959065535,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T21:02:00.418075",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9585.624973099546,
+      "returns_pct": -4.14375026900454,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T21:02:50.042292",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9584.88106703609,
+      "returns_pct": -4.151189329639092,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T21:03:35.206345",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9584.726637555259,
+      "returns_pct": -4.15273362444741,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T21:04:20.363601",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9585.079776601175,
+      "returns_pct": -4.1492022339882535,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T21:05:05.661193",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9584.089298420382,
+      "returns_pct": -4.15910701579618,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T21:05:50.763669",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9583.347443847493,
+      "returns_pct": -4.166525561525068,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T21:06:35.858453",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9582.780062185979,
+      "returns_pct": -4.1721993781402125,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T21:07:20.948658",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9582.498462637635,
+      "returns_pct": -4.175015373623646,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T21:08:06.131752",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9581.880968644276,
+      "returns_pct": -4.181190313557235,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T21:08:51.306198",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9581.045432695078,
+      "returns_pct": -4.189545673049215,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T21:09:36.466379",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9580.592692190645,
+      "returns_pct": -4.1940730780935525,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T21:10:21.647174",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9579.501413099639,
+      "returns_pct": -4.204985869003613,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T21:11:06.732733",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9578.09892755168,
+      "returns_pct": -4.219010724483196,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T21:11:52.027010",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9579.612650842453,
+      "returns_pct": -4.203873491575468,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T21:12:37.232566",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9579.713775605927,
+      "returns_pct": -4.202862243940726,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T21:13:22.409759",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9579.46530365545,
+      "returns_pct": -4.2053469634455,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T21:14:07.522077",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9580.04808149385,
+      "returns_pct": -4.199519185061509,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T21:14:52.639854",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9580.136157900746,
+      "returns_pct": -4.1986384209925385,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T21:15:37.728441",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9580.423198510904,
+      "returns_pct": -4.195768014890964,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T21:16:22.843250",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9580.84967806855,
+      "returns_pct": -4.191503219314509,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T21:17:08.118834",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9582.124134814738,
+      "returns_pct": -4.178758651852623,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T21:17:53.279317",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9582.212697715682,
+      "returns_pct": -4.177873022843178,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T21:18:38.423124",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9581.872059731648,
+      "returns_pct": -4.181279402683521,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T21:19:23.584677",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9581.211994671816,
+      "returns_pct": -4.187880053281842,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T21:20:08.674214",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9582.565193670089,
+      "returns_pct": -4.174348063299113,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T21:20:53.781001",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9582.71740550886,
+      "returns_pct": -4.172825944911401,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T21:38:29.151937",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9584.221964434246,
+      "returns_pct": -4.157780355657542,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T21:57:51.923014",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9585.58884675488,
+      "returns_pct": -4.144111532451206,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T21:58:37.035060",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9585.590176384816,
+      "returns_pct": -4.14409823615184,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T21:59:22.124862",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9585.658680256847,
+      "returns_pct": -4.143413197431528,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T22:00:07.351091",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9586.075765837139,
+      "returns_pct": -4.139242341628615,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T22:00:52.846539",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9584.872836500866,
+      "returns_pct": -4.1512716349913354,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T22:01:37.942859",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9584.43638622978,
+      "returns_pct": -4.155636137702204,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T22:02:23.148304",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9584.646859886288,
+      "returns_pct": -4.153531401137116,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T22:03:08.391005",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9584.372624467445,
+      "returns_pct": -4.156273755325547,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T22:03:53.506898",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9583.900411838962,
+      "returns_pct": -4.160995881610379,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T22:04:38.632603",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9584.512168929308,
+      "returns_pct": -4.154878310706918,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T22:05:23.724403",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9584.514559870495,
+      "returns_pct": -4.154854401295052,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T22:06:08.823595",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9585.617266624473,
+      "returns_pct": -4.143827333755271,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T22:06:53.931308",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9585.330955999658,
+      "returns_pct": -4.146690440003422,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T22:07:39.162629",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9584.27178329398,
+      "returns_pct": -4.1572821670602025,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T22:08:24.333670",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9583.726862912972,
+      "returns_pct": -4.1627313708702784,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T22:09:09.439403",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9583.40895117993,
+      "returns_pct": -4.165910488200698,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T22:09:54.537079",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9583.174080761537,
+      "returns_pct": -4.16825919238463,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T22:10:39.648780",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9581.384905735042,
+      "returns_pct": -4.186150942649583,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T22:11:24.767193",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9580.78416556057,
+      "returns_pct": -4.192158344394302,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T22:12:09.899600",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9580.680132165113,
+      "returns_pct": -4.193198678348872,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T22:12:55.128200",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9579.53684584916,
+      "returns_pct": -4.204631541508406,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T22:13:40.317355",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9579.61430845111,
+      "returns_pct": -4.203856915488904,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T22:14:25.757862",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9579.737591958505,
+      "returns_pct": -4.202624080414953,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T22:15:11.073670",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9578.677299058796,
+      "returns_pct": -4.213227009412039,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T22:15:56.191437",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9577.800422039496,
+      "returns_pct": -4.22199577960504,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T22:16:41.412195",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9577.15502937805,
+      "returns_pct": -4.228449706219508,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T22:17:26.495103",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9577.066497347816,
+      "returns_pct": -4.22933502652184,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T22:18:11.600056",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9576.85362637975,
+      "returns_pct": -4.231463736202495,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T22:18:56.687485",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9576.223986210995,
+      "returns_pct": -4.237760137890055,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T22:19:41.773886",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9576.514589365494,
+      "returns_pct": -4.234854106345065,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T22:20:26.858497",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9576.460513133741,
+      "returns_pct": -4.235394868662588,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T22:54:59.575368",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9576.284092164784,
+      "returns_pct": -4.23715907835216,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T23:20:00.759740",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9556.403631910769,
+      "returns_pct": -4.43596368089231,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-19T23:20:53.088268",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9555.957527630868,
+      "returns_pct": -4.440424723691322,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-20T00:21:58.371482",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9528.00040292362,
+      "returns_pct": -4.719995970763794,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-20T01:22:47.573713",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9521.72145519821,
+      "returns_pct": -4.782785448017894,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-20T02:45:30.032005",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9538.45083111186,
+      "returns_pct": -4.615491688881393,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-20T05:15:17.153553",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9534.673097317209,
+      "returns_pct": -4.65326902682791,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-20T05:16:58.589752",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9501.719715292282,
+      "returns_pct": -4.982802847077182,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-20T05:29:28.451995",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9503.397513168706,
+      "returns_pct": -4.966024868312943,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-20T06:32:03.371153",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9502.546807960487,
+      "returns_pct": -4.97453192039513,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-20T06:45:18.802920",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9501.998416216938,
+      "returns_pct": -4.9800158378306145,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-20T09:05:54.768872",
+    "type": "cycle",
+    "data": {
+      "cash": 6217.025582983782,
+      "positions": 3,
+      "total_value": 9490.792282530605,
+      "returns_pct": -5.09207717469395,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-20T09:06:28.033865",
+    "type": "trade",
+    "data": {
+      "type": "sell",
+      "symbol": "ETH/USD",
+      "price": 3019.44,
+      "amount": 0.32620891443370253,
+      "usd_value": 983.9832763531011,
+      "fee": 0.9849682445976988,
+      "pnl": -63.698632044476994,
+      "pnl_pct": -6.079959149232956,
+      "reason": "STOP LOSS triggered at -6.0%",
+      "timestamp": "2026-01-20T09:06:28.030055"
+    }
+  },
+  {
+    "timestamp": "2026-01-20T09:40:52.485023",
+    "type": "error",
+    "data": {
+      "symbol": "ETH/USD",
+      "error": "kraken GET https://api.kraken.com/0/public/OHLC?pair=XETHZUSD&interval=60"
+    }
+  },
+  {
+    "timestamp": "2026-01-20T10:31:06.790722",
+    "type": "error",
+    "data": {
+      "symbol": "ADA/USD",
+      "error": "kraken GET https://api.kraken.com/0/public/OHLC?pair=ADAUSD&interval=60"
+    }
+  },
+  {
+    "timestamp": "2026-01-20T10:31:10.134251",
+    "type": "trade",
+    "data": {
+      "type": "buy",
+      "symbol": "DOGE/USD",
+      "price": 0.1243691,
+      "amount": 8676.360748543104,
+      "usd_value": 1080.1513289005325,
+      "fee": 1.0801513289005324,
+      "reason": "Mean Reversion: Z-score=-1.51, below mean",
+      "confidence": 70,
+      "timestamp": "2026-01-20T10:31:10.132858"
+    }
+  },
+  {
+    "timestamp": "2026-01-20T11:00:59.031990",
+    "type": "cycle",
+    "data": {
+      "cash": 6120.857530436351,
+      "positions": 3,
+      "total_value": 9468.443673507907,
+      "returns_pct": -5.315563264920929,
+      "wins": 0,
+      "losses": 3
+    }
+  },
+  {
+    "timestamp": "2026-01-20T11:06:47.664035",
+    "type": "cycle",
+    "data": {
+      "cash": 6120.857530436351,
+      "positions": 3,
+      "total_value": 9441.126115452686,
+      "returns_pct": -5.588738845473144,
+      "wins": 0,
+      "losses": 4
+    }
+  },
+  {
+    "timestamp": "2026-01-20T11:57:11.501523",
+    "type": "cycle",
+    "data": {
+      "cash": 6120.857530436351,
+      "positions": 3,
+      "total_value": 9449.52096102264,
+      "returns_pct": -5.504790389773607,
+      "wins": 0,
+      "losses": 4
+    }
+  },
+  {
+    "timestamp": "2026-01-20T11:57:56.774013",
+    "type": "cycle",
+    "data": {
+      "cash": 6120.857530436351,
+      "positions": 3,
+      "total_value": 9430.311800565163,
+      "returns_pct": -5.696881994348368,
+      "wins": 0,
+      "losses": 4
+    }
+  },
+  {
+    "timestamp": "2026-01-20T11:58:42.014009",
+    "type": "cycle",
+    "data": {
+      "cash": 6120.857530436351,
+      "positions": 3,
+      "total_value": 9428.724813493121,
+      "returns_pct": -5.712751865068785,
+      "wins": 0,
+      "losses": 4
+    }
+  },
+  {
+    "timestamp": "2026-01-20T11:59:27.367055",
+    "type": "cycle",
+    "data": {
+      "cash": 6120.857530436351,
+      "positions": 3,
+      "total_value": 9428.569094179815,
+      "returns_pct": -5.714309058201852,
+      "wins": 0,
+      "losses": 4
+    }
+  },
+  {
+    "timestamp": "2026-01-20T12:00:12.529328",
+    "type": "cycle",
+    "data": {
+      "cash": 6120.857530436351,
+      "positions": 3,
+      "total_value": 9429.624600952411,
+      "returns_pct": -5.703753990475889,
+      "wins": 0,
+      "losses": 4
+    }
+  },
+  {
+    "timestamp": "2026-01-20T12:00:57.803418",
+    "type": "cycle",
+    "data": {
+      "cash": 6120.857530436351,
+      "positions": 3,
+      "total_value": 9432.144283889027,
+      "returns_pct": -5.678557161109729,
+      "wins": 0,
+      "losses": 4
+    }
+  },
+  {
+    "timestamp": "2026-01-20T12:01:43.115915",
+    "type": "cycle",
+    "data": {
+      "cash": 6120.857530436351,
+      "positions": 3,
+      "total_value": 9434.089289394378,
+      "returns_pct": -5.659107106056218,
+      "wins": 0,
+      "losses": 4
+    }
+  },
+  {
+    "timestamp": "2026-01-20T12:02:38.152929",
+    "type": "cycle",
+    "data": {
+      "cash": 6120.857530436351,
+      "positions": 3,
+      "total_value": 9437.210541457072,
+      "returns_pct": -5.627894585429276,
+      "wins": 0,
+      "losses": 4
+    }
+  },
+  {
+    "timestamp": "2026-01-20T12:03:23.518584",
+    "type": "cycle",
+    "data": {
+      "cash": 6120.857530436351,
+      "positions": 3,
+      "total_value": 9433.074204895449,
+      "returns_pct": -5.669257951045511,
+      "wins": 0,
+      "losses": 4
+    }
+  },
+  {
+    "timestamp": "2026-01-20T12:04:08.642166",
+    "type": "cycle",
+    "data": {
+      "cash": 6120.857530436351,
+      "positions": 3,
+      "total_value": 9435.122883982576,
+      "returns_pct": -5.648771160174237,
+      "wins": 0,
+      "losses": 4
+    }
+  },
+  {
+    "timestamp": "2026-01-20T12:04:53.769881",
+    "type": "cycle",
+    "data": {
+      "cash": 6120.857530436351,
+      "positions": 3,
+      "total_value": 9434.597425093125,
+      "returns_pct": -5.654025749068751,
+      "wins": 0,
+      "losses": 4
+    }
+  },
+  {
+    "timestamp": "2026-01-20T12:05:38.892825",
+    "type": "cycle",
+    "data": {
+      "cash": 6120.857530436351,
+      "positions": 3,
+      "total_value": 9433.365189817212,
+      "returns_pct": -5.66634810182788,
+      "wins": 0,
+      "losses": 4
+    }
+  },
+  {
+    "timestamp": "2026-01-20T12:06:24.024938",
+    "type": "cycle",
+    "data": {
+      "cash": 6120.857530436351,
+      "positions": 3,
+      "total_value": 9431.414796203488,
+      "returns_pct": -5.685852037965124,
+      "wins": 0,
+      "losses": 4
+    }
+  },
+  {
+    "timestamp": "2026-01-20T12:07:09.141886",
+    "type": "cycle",
+    "data": {
+      "cash": 6120.857530436351,
+      "positions": 3,
+      "total_value": 9431.84690916754,
+      "returns_pct": -5.681530908324603,
+      "wins": 0,
+      "losses": 4
+    }
+  },
+  {
+    "timestamp": "2026-01-20T12:07:54.571049",
+    "type": "cycle",
+    "data": {
+      "cash": 6120.857530436351,
+      "positions": 3,
+      "total_value": 9433.230933011679,
+      "returns_pct": -5.667690669883214,
+      "wins": 0,
+      "losses": 4
+    }
+  },
+  {
+    "timestamp": "2026-01-20T12:08:39.784359",
+    "type": "cycle",
+    "data": {
+      "cash": 6120.857530436351,
+      "positions": 3,
+      "total_value": 9432.059175623066,
+      "returns_pct": -5.679408243769339,
+      "wins": 0,
+      "losses": 4
+    }
+  },
+  {
+    "timestamp": "2026-01-20T12:09:25.118781",
+    "type": "cycle",
+    "data": {
+      "cash": 6120.857530436351,
+      "positions": 3,
+      "total_value": 9432.491380777112,
+      "returns_pct": -5.675086192228882,
+      "wins": 0,
+      "losses": 4
+    }
+  },
+  {
+    "timestamp": "2026-01-20T12:10:10.366846",
+    "type": "cycle",
+    "data": {
+      "cash": 6120.857530436351,
+      "positions": 3,
+      "total_value": 9431.871605930222,
+      "returns_pct": -5.681283940697776,
+      "wins": 0,
+      "losses": 4
+    }
+  },
+  {
+    "timestamp": "2026-01-20T12:10:55.727873",
+    "type": "cycle",
+    "data": {
+      "cash": 6120.857530436351,
+      "positions": 3,
+      "total_value": 9435.103820475908,
+      "returns_pct": -5.648961795240921,
+      "wins": 0,
+      "losses": 4
+    }
+  },
+  {
+    "timestamp": "2026-01-20T12:11:40.972717",
+    "type": "cycle",
+    "data": {
+      "cash": 6120.857530436351,
+      "positions": 3,
+      "total_value": 9435.107822729884,
+      "returns_pct": -5.64892177270116,
+      "wins": 0,
+      "losses": 4
+    }
+  },
+  {
+    "timestamp": "2026-01-20T12:12:26.068463",
+    "type": "cycle",
+    "data": {
+      "cash": 6120.857530436351,
+      "positions": 3,
+      "total_value": 9434.427747819265,
+      "returns_pct": -5.6557225218073475,
+      "wins": 0,
+      "losses": 4
+    }
+  },
+  {
+    "timestamp": "2026-01-20T12:13:11.348861",
+    "type": "cycle",
+    "data": {
+      "cash": 6120.857530436351,
+      "positions": 3,
+      "total_value": 9435.023871626337,
+      "returns_pct": -5.649761283736625,
+      "wins": 0,
+      "losses": 4
+    }
+  },
+  {
+    "timestamp": "2026-01-20T12:13:56.574727",
+    "type": "cycle",
+    "data": {
+      "cash": 6120.857530436351,
+      "positions": 3,
+      "total_value": 9437.30373427995,
+      "returns_pct": -5.626962657200493,
+      "wins": 0,
+      "losses": 4
+    }
+  },
+  {
+    "timestamp": "2026-01-20T12:14:42.092127",
+    "type": "cycle",
+    "data": {
+      "cash": 6120.857530436351,
+      "positions": 3,
+      "total_value": 9437.181036731748,
+      "returns_pct": -5.628189632682515,
+      "wins": 0,
+      "losses": 4
+    }
+  },
+  {
+    "timestamp": "2026-01-20T12:15:27.579621",
+    "type": "cycle",
+    "data": {
+      "cash": 6120.857530436351,
+      "positions": 3,
+      "total_value": 9436.08634630839,
+      "returns_pct": -5.639136536916103,
+      "wins": 0,
+      "losses": 4
+    }
+  },
+  {
+    "timestamp": "2026-01-20T12:16:12.925100",
+    "type": "cycle",
+    "data": {
+      "cash": 6120.857530436351,
+      "positions": 3,
+      "total_value": 9435.343230729412,
+      "returns_pct": -5.646567692705885,
+      "wins": 0,
+      "losses": 4
+    }
+  },
+  {
+    "timestamp": "2026-01-20T12:16:58.174086",
+    "type": "cycle",
+    "data": {
+      "cash": 6120.857530436351,
+      "positions": 3,
+      "total_value": 9435.483751692274,
+      "returns_pct": -5.645162483077256,
+      "wins": 0,
+      "losses": 4
+    }
+  },
+  {
+    "timestamp": "2026-01-20T12:17:43.399559",
+    "type": "cycle",
+    "data": {
+      "cash": 6120.857530436351,
+      "positions": 3,
+      "total_value": 9437.819667409864,
+      "returns_pct": -5.6218033259013644,
+      "wins": 0,
+      "losses": 4
+    }
+  },
+  {
+    "timestamp": "2026-01-20T12:18:28.682019",
+    "type": "cycle",
+    "data": {
+      "cash": 6120.857530436351,
+      "positions": 3,
+      "total_value": 9436.251005723114,
+      "returns_pct": -5.637489942768862,
+      "wins": 0,
+      "losses": 4
+    }
+  },
+  {
+    "timestamp": "2026-01-20T12:19:13.898399",
+    "type": "cycle",
+    "data": {
+      "cash": 6120.857530436351,
+      "positions": 3,
+      "total_value": 9433.183593448102,
+      "returns_pct": -5.668164065518977,
+      "wins": 0,
+      "losses": 4
+    }
+  },
+  {
+    "timestamp": "2026-01-20T12:19:59.125968",
+    "type": "cycle",
+    "data": {
+      "cash": 6120.857530436351,
+      "positions": 3,
+      "total_value": 9432.050127196791,
+      "returns_pct": -5.679498728032086,
+      "wins": 0,
+      "losses": 4
+    }
+  },
+  {
+    "timestamp": "2026-01-20T12:20:44.361768",
+    "type": "cycle",
+    "data": {
+      "cash": 6120.857530436351,
+      "positions": 3,
+      "total_value": 9430.62772988152,
+      "returns_pct": -5.6937227011847975,
+      "wins": 0,
+      "losses": 4
+    }
+  },
+  {
+    "timestamp": "2026-01-20T12:21:29.563616",
+    "type": "cycle",
+    "data": {
+      "cash": 6120.857530436351,
+      "positions": 3,
+      "total_value": 9428.936119500711,
+      "returns_pct": -5.710638804992887,
+      "wins": 0,
+      "losses": 4
+    }
+  },
+  {
+    "timestamp": "2026-01-20T12:22:14.733067",
+    "type": "cycle",
+    "data": {
+      "cash": 6120.857530436351,
+      "positions": 3,
+      "total_value": 9428.31857331303,
+      "returns_pct": -5.716814266869696,
+      "wins": 0,
+      "losses": 4
+    }
+  },
+  {
+    "timestamp": "2026-01-20T12:22:59.966637",
+    "type": "cycle",
+    "data": {
+      "cash": 6120.857530436351,
+      "positions": 3,
+      "total_value": 9430.84787220364,
+      "returns_pct": -5.691521277963602,
+      "wins": 0,
+      "losses": 4
+    }
+  },
+  {
+    "timestamp": "2026-01-20T12:23:45.204656",
+    "type": "cycle",
+    "data": {
+      "cash": 6120.857530436351,
+      "positions": 3,
+      "total_value": 9428.361350854164,
+      "returns_pct": -5.716386491458361,
+      "wins": 0,
+      "losses": 4
+    }
+  },
+  {
+    "timestamp": "2026-01-20T12:24:30.334119",
+    "type": "cycle",
+    "data": {
+      "cash": 6120.857530436351,
+      "positions": 3,
+      "total_value": 9430.62482686494,
+      "returns_pct": -5.693751731350603,
+      "wins": 0,
+      "losses": 4
+    }
+  },
+  {
+    "timestamp": "2026-01-20T12:25:15.557521",
+    "type": "cycle",
+    "data": {
+      "cash": 6120.857530436351,
+      "positions": 3,
+      "total_value": 9432.576640864158,
+      "returns_pct": -5.6742335913584245,
+      "wins": 0,
+      "losses": 4
+    }
+  },
+  {
+    "timestamp": "2026-01-20T12:26:00.840244",
+    "type": "cycle",
+    "data": {
+      "cash": 6120.857530436351,
+      "positions": 3,
+      "total_value": 9433.575870039524,
+      "returns_pct": -5.664241299604765,
+      "wins": 0,
+      "losses": 4
+    }
+  },
+  {
+    "timestamp": "2026-01-20T12:26:46.156492",
+    "type": "cycle",
+    "data": {
+      "cash": 6120.857530436351,
+      "positions": 3,
+      "total_value": 9435.738930901074,
+      "returns_pct": -5.642610690989259,
+      "wins": 0,
+      "losses": 4
+    }
+  },
+  {
+    "timestamp": "2026-01-20T12:27:31.389834",
+    "type": "cycle",
+    "data": {
+      "cash": 6120.857530436351,
+      "positions": 3,
+      "total_value": 9436.32895796307,
+      "returns_pct": -5.636710420369309,
+      "wins": 0,
+      "losses": 4
+    }
+  },
+  {
+    "timestamp": "2026-01-20T12:28:16.635903",
+    "type": "cycle",
+    "data": {
+      "cash": 6120.857530436351,
+      "positions": 3,
+      "total_value": 9435.557074076683,
+      "returns_pct": -5.644429259233165,
+      "wins": 0,
+      "losses": 4
+    }
+  },
+  {
+    "timestamp": "2026-01-20T12:29:01.879844",
+    "type": "cycle",
+    "data": {
+      "cash": 6120.857530436351,
+      "positions": 3,
+      "total_value": 9429.894029877716,
+      "returns_pct": -5.701059701222839,
+      "wins": 0,
+      "losses": 4
+    }
+  },
+  {
+    "timestamp": "2026-01-20T12:29:47.109883",
+    "type": "cycle",
+    "data": {
+      "cash": 6120.857530436351,
+      "positions": 3,
+      "total_value": 9430.971529580807,
+      "returns_pct": -5.690284704191926,
+      "wins": 0,
+      "losses": 4
+    }
+  },
+  {
+    "timestamp": "2026-01-20T12:30:32.381461",
+    "type": "cycle",
+    "data": {
+      "cash": 6120.857530436351,
+      "positions": 3,
+      "total_value": 9428.600753958532,
+      "returns_pct": -5.7139924604146834,
+      "wins": 0,
+      "losses": 4
+    }
+  },
+  {
+    "timestamp": "2026-01-20T12:31:40.700632",
+    "type": "cycle",
+    "data": {
+      "cash": 6120.857530436351,
+      "positions": 3,
+      "total_value": 9428.644579761769,
+      "returns_pct": -5.713554202382311,
+      "wins": 0,
+      "losses": 4
+    }
+  }
+]

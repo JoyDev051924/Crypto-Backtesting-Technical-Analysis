@@ -1,0 +1,102 @@
+{
+  "started_at": "2026-01-18T00:16:54.121343",
+  "bots": {
+    "Breakout Hunter": {
+      "config": {
+        "name": "Breakout Hunter",
+        "strategy": "volume_breakout",
+        "coins": [
+          "BTC/USD",
+          "ETH/USD",
+          "SOL/USD"
+        ],
+        "timeframe": "1h",
+        "stop_loss": 5,
+        "take_profit": 12
+      },
+      "cash": 2500.0,
+      "position": null,
+      "trades": [],
+      "pnl": 0,
+      "wins": 0,
+      "losses": 0
+    },
+    "Dip Buyer": {
+      "config": {
+        "name": "Dip Buyer",
+        "strategy": "mean_reversion",
+        "coins": [
+          "BTC/USD",
+          "ETH/USD",
+          "LINK/USD",
+          "AVAX/USD"
+        ],
+        "timeframe": "4h",
+        "stop_loss": 4,
+        "take_profit": 8
+      },
+      "cash": 2500.0,
+      "position": null,
+      "trades": [],
+      "pnl": 0,
+      "wins": 0,
+      "losses": 0
+    },
+    "Trend Rider": {
+      "config": {
+        "name": "Trend Rider",
+        "strategy": "trend_follow",
+        "coins": [
+          "BTC/USD",
+          "ETH/USD",
+          "SOL/USD"
+        ],
+        "timeframe": "4h",
+        "stop_loss": 6,
+        "take_profit": 15
+      },
+      "cash": 250.0,
+      "position": {
+        "symbol": "BTC/USD",
+        "amount": 0.023624418257568433,
+        "entry_price": 95145.2,
+        "highest": 95145.2,
+        "entry_time": "2026-01-18T00:17:21.641580"
+      },
+      "trades": [
+        {
+          "type": "buy",
+          "symbol": "BTC/USD",
+          "price": 95145.2,
+          "amount": 0.023624418257568433,
+          "reason": "Uptrend confirmed",
+          "timestamp": "2026-01-18T00:17:21.641590"
+        }
+      ],
+      "pnl": 0,
+      "wins": 0,
+      "losses": 0
+    },
+    "Scalper": {
+      "config": {
+        "name": "Scalper",
+        "strategy": "rsi_extreme",
+        "coins": [
+          "BTC/USD",
+          "ETH/USD",
+          "XRP/USD",
+          "SOL/USD"
+        ],
+        "timeframe": "1h",
+        "stop_loss": 3,
+        "take_profit": 5
+      },
+      "cash": 2500.0,
+      "position": null,
+      "trades": [],
+      "pnl": 0,
+      "wins": 0,
+      "losses": 0
+    }
+  }
+}

@@ -1,0 +1,4002 @@
+[
+  {
+    "timestamp": "2026-01-24T10:08:02.379790",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T10:09:28.531682",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T10:10:54.383933",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T10:12:20.016193",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T10:13:45.926394",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T10:15:11.878190",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T10:16:37.684943",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T10:18:03.618492",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T10:19:29.564227",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T10:20:55.670096",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T10:22:21.320104",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T10:23:47.627010",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T10:25:13.368077",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T10:26:39.337103",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T10:28:05.033824",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T10:29:30.936706",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T10:30:57.059009",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T10:32:22.591915",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T10:33:48.565017",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T10:35:14.580089",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T10:36:40.514999",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T10:38:06.413942",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T10:39:32.299392",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T10:40:58.570206",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T10:42:24.331847",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T10:43:50.100935",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T10:45:15.869394",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T10:46:41.456931",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T10:48:07.511927",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T10:49:33.162800",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T10:50:59.157553",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T10:52:25.065524",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T10:53:50.796536",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T10:55:16.633568",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T10:56:42.544513",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T10:58:08.514747",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T10:59:34.228327",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T11:00:59.982408",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T11:02:25.838662",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T11:03:51.513535",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T11:05:17.458367",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T11:06:43.088295",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T11:08:12.216977",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T11:09:38.398887",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T11:11:04.298897",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T11:12:30.218394",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T11:13:57.087603",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T11:15:22.757134",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T11:16:51.297089",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T11:18:17.312083",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T11:19:42.940825",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T11:21:08.732162",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T11:22:34.348056",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T11:24:00.396570",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T11:25:26.784256",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T11:26:52.798552",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T11:28:18.455236",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T11:29:44.411336",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T11:31:10.324329",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T11:32:36.297133",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T11:34:02.030250",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T11:35:27.882892",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T11:36:53.738446",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T11:38:19.416885",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T11:39:45.661960",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T11:41:11.654964",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T11:42:37.946155",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T11:44:03.800425",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T11:45:29.423413",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T11:46:54.983033",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T11:48:20.879824",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T11:49:46.492693",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T11:51:12.357213",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T11:52:38.546443",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T11:54:04.453240",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T11:55:30.111412",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T11:56:55.718381",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T11:58:21.998227",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T11:59:47.431547",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T12:01:13.273481",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T12:02:38.993958",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T12:04:04.883270",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T12:05:30.562320",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T12:06:56.020835",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T12:08:21.621623",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T12:09:47.494430",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T12:11:13.171251",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T12:12:38.911674",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T12:14:04.664279",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T12:15:30.770128",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T12:16:56.586337",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T12:18:22.659587",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T12:19:48.449025",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T12:21:14.463787",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T12:22:40.683139",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T12:24:06.882285",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T12:25:32.784771",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T12:26:58.723772",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T12:28:24.646959",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T12:29:50.902509",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T12:31:16.845170",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T12:32:42.840879",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T12:34:08.470232",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T12:35:34.447694",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T12:37:00.882976",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T12:38:26.862822",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T12:39:52.541493",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T12:41:18.792722",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T12:42:44.887461",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T12:44:10.654858",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T12:45:36.337454",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T12:47:02.330845",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T12:48:28.286900",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T12:49:54.236511",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T12:51:20.175703",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T12:52:46.384600",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T12:54:12.594428",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T12:55:38.534776",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T12:57:04.832930",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T12:58:30.703159",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T12:59:56.671351",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T13:01:22.233420",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T13:02:48.773952",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T13:04:14.646131",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T13:05:40.644852",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T13:07:06.408247",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T13:08:33.039873",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T13:09:59.026226",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T13:11:25.593134",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T13:12:52.088508",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T13:14:17.823869",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T13:15:44.179291",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T13:17:09.938986",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T13:18:35.965712",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T13:20:01.930089",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T13:21:28.431677",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T13:22:54.199883",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T13:24:20.288308",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T13:25:46.205460",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T13:27:12.062624",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T13:28:38.238608",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T13:30:03.967372",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T13:31:29.763989",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T13:32:56.172860",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T13:34:21.889598",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T13:35:47.529250",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T13:37:13.526255",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T13:38:39.737131",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T13:40:05.941316",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T13:41:32.038520",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T13:42:58.068255",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T13:44:23.921857",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T13:45:50.438553",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T13:47:15.912718",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T13:48:42.033843",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T13:50:08.213070",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T13:51:33.967115",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T13:52:59.947683",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T13:54:25.763333",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T13:55:51.540496",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T13:57:18.138577",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T13:58:44.085707",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T14:00:10.995372",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T14:01:36.872206",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T14:03:02.932789",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T14:04:29.090305",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T14:05:55.277642",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T14:07:20.998570",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T14:08:46.885372",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T14:10:12.829203",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T14:11:42.024440",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T14:13:07.950652",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T14:14:34.073115",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T14:16:00.089621",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T14:17:26.116595",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T14:18:52.263959",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T14:20:18.434557",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T14:21:44.417221",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T14:23:40.426672",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T14:25:27.590285",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T14:26:53.390451",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T14:28:19.231069",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T14:31:12.518788",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T14:32:38.404572",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T14:34:04.050578",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T14:35:30.414156",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T14:36:56.425691",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T14:38:24.826845",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T14:40:23.579072",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T14:41:56.526406",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T14:43:22.055675",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T14:45:48.096945",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T14:47:14.143809",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T14:48:40.633259",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T14:50:07.052021",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T14:51:32.974893",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T14:52:59.157846",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T14:54:25.225807",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T14:55:50.923567",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T14:57:16.892601",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T14:58:43.104055",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T15:00:09.521421",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T15:01:35.370233",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T15:04:14.244743",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T15:05:40.817964",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T15:07:27.786033",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T15:10:26.883979",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T15:12:45.716572",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T15:14:18.501015",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T15:15:44.270529",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T15:17:10.022349",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T15:18:36.907345",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T15:20:29.916065",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T15:22:02.589827",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T15:23:28.875154",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T15:24:54.693834",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T15:26:20.674993",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T15:27:46.789538",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T15:29:13.107407",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T15:30:38.893759",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T15:32:06.159759",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T15:33:36.724357",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T15:35:02.402346",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T15:36:28.581605",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T15:37:55.211080",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T15:39:21.314215",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T15:40:47.087166",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T15:42:13.554559",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T15:43:41.927659",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T15:45:11.973964",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T15:46:38.426193",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T15:48:05.008569",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T15:49:31.365995",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T15:50:57.327327",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T15:52:24.118470",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T15:53:50.823701",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T15:55:16.981968",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T15:57:09.378856",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T15:58:37.729785",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T16:00:10.952718",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T16:02:36.529077",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T16:04:11.564340",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T16:05:38.173327",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T16:07:04.522405",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T16:08:30.762021",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T16:09:57.929130",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T16:11:23.973958",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T16:12:50.107542",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T16:14:16.378760",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T16:15:42.593965",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T16:17:08.574048",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T16:18:35.311641",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T16:20:01.244336",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T16:21:27.278605",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T16:22:58.627301",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T16:24:26.982207",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T16:25:53.632365",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T16:27:20.109549",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T16:28:47.410143",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T16:30:13.677732",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T16:31:39.773939",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T16:33:06.513299",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T16:34:35.431654",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T16:36:01.217808",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T16:37:28.431804",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T16:38:54.685443",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T16:40:20.843333",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T16:41:48.616268",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T16:43:14.575577",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T16:44:41.209899",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T16:46:07.501191",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T16:47:33.707591",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T16:48:59.770433",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T16:50:26.558038",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T16:51:52.814014",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T16:53:19.028686",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T16:54:46.418087",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T16:56:14.278287",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T16:57:40.737191",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T16:59:07.071002",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T17:00:33.864277",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T17:01:59.455079",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T17:03:30.580654",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T17:04:57.068898",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T17:06:23.888015",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T17:07:50.287047",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T17:09:16.312573",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T17:10:43.083146",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T17:12:09.449303",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T17:13:35.519984",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T17:15:01.869996",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T17:16:29.134837",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T17:17:54.832082",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T17:19:20.801827",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T17:20:48.535339",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T17:22:15.589953",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T17:23:41.606664",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T17:25:07.233729",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T17:26:33.468795",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T17:28:00.059481",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T17:29:26.969356",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T17:30:53.609176",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T17:32:19.476280",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T17:33:45.852387",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T17:35:12.011147",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T17:36:38.718272",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T17:38:05.040588",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T17:39:30.879333",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T17:40:57.411878",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T17:42:24.410200",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T17:43:51.662883",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T17:45:17.999024",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T17:46:44.494079",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T17:48:10.146280",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T17:49:35.876215",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T17:51:02.298626",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T17:52:28.073827",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T17:53:54.071425",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T17:55:20.786791",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T17:56:46.619122",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T17:58:12.965971",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T17:59:39.316118",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T18:01:06.015810",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T18:02:31.860326",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T18:03:58.879842",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T18:05:25.326212",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T18:06:51.924416",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T18:08:17.855824",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T18:09:43.800613",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T18:11:10.553720",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T18:12:37.903478",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T18:14:05.094415",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T18:15:31.755293",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T18:16:58.230248",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T18:18:25.895810",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T18:19:53.976976",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T18:21:20.927695",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T18:22:47.122037",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T18:24:12.892414",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T18:25:39.037723",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T18:27:07.398985",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T18:28:34.924383",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T18:30:00.622627",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T18:31:26.650244",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T18:32:53.099412",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T18:34:22.107169",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T18:35:48.189344",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T18:37:14.517803",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T18:38:40.687983",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T18:40:06.862201",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T18:41:32.581630",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T18:42:59.366895",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T18:44:25.413455",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T18:45:52.039634",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T18:47:17.920196",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T18:48:43.925450",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T18:50:10.565346",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T18:51:40.932972",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T18:53:07.456823",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T18:54:34.831872",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T18:56:02.712520",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T18:57:30.518008",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T18:58:58.034039",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T19:00:24.845108",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T19:01:50.807154",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T19:04:04.908538",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T19:05:36.155347",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T19:07:02.075766",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T19:08:29.266014",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T19:09:57.581019",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T19:11:24.200151",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T19:12:50.727233",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T19:14:18.194182",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T19:15:44.623243",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T19:17:10.667203",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T19:18:38.150788",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T19:20:05.124286",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T19:21:30.935335",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T19:22:57.332434",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T19:24:23.441677",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T19:25:49.116304",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T19:27:16.067519",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T19:28:42.173979",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T19:30:08.827161",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T19:31:34.866384",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T19:33:00.791034",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T19:34:26.715638",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T19:35:53.221758",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T19:37:20.877583",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T19:38:48.614435",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T19:40:16.489351",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T19:41:43.582321",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T19:43:09.984800",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T19:44:39.595477",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T19:46:05.647581",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T19:47:31.744153",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T19:48:57.993193",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T19:50:24.952484",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T19:51:51.276983",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T19:53:21.864559",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T19:54:47.902483",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T19:56:14.634976",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T19:57:41.242852",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T19:59:08.059648",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T20:00:34.054088",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T20:02:00.434705",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T20:03:26.712189",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T20:04:54.054031",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T20:12:45.730928",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T20:14:24.672219",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T20:15:52.311460",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T20:17:40.885652",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T20:19:09.943756",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T20:20:39.227852",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T20:22:11.799856",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T20:23:38.185374",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T20:25:04.717873",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T22:52:07.573204",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T22:53:44.487257",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T22:55:14.034231",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T22:56:40.359046",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T22:58:06.134488",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T22:59:34.534526",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T23:01:05.195569",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T23:02:31.635771",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T23:03:59.350196",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T23:05:25.996862",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T23:07:00.002381",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T23:08:26.737486",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T23:09:53.093455",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T23:11:19.907328",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T23:12:45.961382",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T23:14:12.819668",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T23:15:39.787384",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T23:17:09.727268",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T23:18:36.088155",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T23:20:04.261866",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T23:57:36.362919",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-24T23:59:05.625999",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-25T00:00:32.997236",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-25T02:35:39.742470",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-25T06:06:35.849897",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-25T08:03:45.017074",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-25T11:26:47.021146",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-25T14:00:08.461713",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-25T15:15:04.195843",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-25T15:16:36.306620",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-25T15:18:02.473189",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-25T15:19:30.230438",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-25T15:20:56.375404",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-25T15:22:25.920500",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-25T15:23:51.823896",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-25T15:25:17.681020",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-25T15:26:43.805410",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-25T15:28:17.322487",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-25T15:29:45.802867",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-25T15:31:13.063594",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-25T15:32:39.371594",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-25T15:34:17.878376",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-25T15:35:43.657768",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-25T15:37:11.665974",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-25T15:38:39.997858",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-25T15:40:05.914187",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-25T15:41:31.561620",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-25T15:43:01.330646",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-25T16:55:41.717526",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-25T18:03:11.138140",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-25T18:04:42.177096",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-25T18:06:08.783955",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-25T18:07:34.383124",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-25T18:09:12.902140",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-25T18:10:38.468140",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-25T18:12:05.740395",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-25T18:13:31.480877",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-25T18:14:57.378689",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-25T18:16:22.991829",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-25T18:17:48.789199",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-25T18:19:16.731680",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-25T18:20:46.243868",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-25T18:22:19.415697",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-25T18:23:46.447598",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-25T18:25:22.554319",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-25T18:26:48.791921",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-25T18:28:16.372222",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-25T18:29:42.285566",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-25T18:31:08.281746",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-25T18:32:34.241001",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-25T18:34:00.331889",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-25T18:35:26.334067",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-25T18:36:55.402665",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-25T18:38:21.478644",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-25T18:39:51.443722",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-25T18:41:21.447274",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-25T18:42:47.431506",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-25T18:44:13.749102",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-25T18:45:39.923355",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-25T18:47:06.048978",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-25T18:48:32.054679",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-25T18:49:57.774021",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  },
+  {
+    "timestamp": "2026-01-25T18:51:23.620341",
+    "type": "cycle",
+    "data": {
+      "total_value": 10000,
+      "returns_pct": 0.0
+    }
+  }
+]

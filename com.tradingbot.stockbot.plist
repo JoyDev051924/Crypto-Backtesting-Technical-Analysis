@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.tradingbot.stockbot</string>
+    
+    <key>ProgramArguments</key>
+    <array>
+        <string>/Users/codyrutscher/Desktop/outlier-projects/trading-platform/backend/venv/bin/python</string>
+        <string>-m</string>
+        <string>bot.stock_bot</string>
+    </array>
+    
+    <key>RunAtLoad</key>
+    <true/>
+    
+    <key>KeepAlive</key>
+    <false/>
+    
+    <key>StandardOutPath</key>
+    <string>/Users/codyrutscher/Desktop/outlier-projects/trading-platform/backend/bot/launchd_stdout.log</string>
+    
+    <key>StandardErrorPath</key>
+    <string>/Users/codyrutscher/Desktop/outlier-projects/trading-platform/backend/bot/launchd_stderr.log</string>
+    
+    <key>WorkingDirectory</key>
+    <string>/Users/codyrutscher/Desktop/outlier-projects/trading-platform/backend</string>
+</dict>
+</plist>
